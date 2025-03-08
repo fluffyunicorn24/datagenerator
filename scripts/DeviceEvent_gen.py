@@ -85,7 +85,7 @@ FOLDER_PATHS = {
     ],
     "User_Directories": [
         "C:\\Users\\Public\\Desktop",
-        "C:\\Users\\MichaelCrane\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+        "C:\\Users\\janedoe\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
     ],
     "WinSxS": [
         "C:\\Windows\\WinSxS\\amd64_microsoft-windows-performancetoolsgui_31bf3856ad364e35_10.0.26100.2454_none_37d045a450f69011",
