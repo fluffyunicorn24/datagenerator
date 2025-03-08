@@ -48,7 +48,7 @@ FILE_FOLDER_PATHS = [
     "C:\\Program Files\\Microsoft Teams",
     "C:\\Users\\Administrator\\Downloads",
     "C:\\Windows\\Temp",
-    "C:\\Users\\MichaelCrane\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+    "C:\\Users\\janedoe\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
 ]
 
 # File event action types
