@@ -31,7 +31,7 @@ DEVICE_NAME_OPTIONS = [
 # ------------------------
 FILE_NAMES = ["(blank)", "busybox", "conhost.exe", "powershell.exe", "ps"]
 FOLDER_PATHS = ["(blank)", "/bin/busybox", "C:\\Windows\\System32\\conhost.exe"]
-MACHINE_GROUP_OPTIONS = ["ModernWork - Semi automation", "UnassignedGroup"]
+MACHINE_GROUP_OPTIONS = ["automation", "UnassignedGroup"]
 
 VERSION_COMPANIES = ["Microsoft Corporation", "Windows (R) Win 7 DDK provider", "Microsoft CoreXT"]
 VERSION_PRODUCTS = ["Windows"]
